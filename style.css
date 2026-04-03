@@ -332,6 +332,30 @@
     align-items: center;
     padding: 20px;
   }
+
+    #navbar h1 {
+    float: none;
+    text-align: center;
+    padding: 15px 0;
+  }
+
+  #navbar ul {
+    float: none;
+    padding: 0;
+  }
+
+  #navbar ul li {
+    float: none;
+  }
+
+  #navbar ul li a {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    border-top: 1px solid #444;
+  }
+
+}
 }
 
 
